@@ -27,3 +27,8 @@
 
 8. git reset --soft 版本号
 回滚代码， 新代码会不被删除
+
+
+9. git push orgin master 
+
+提交到远程仓库
