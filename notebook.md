@@ -22,13 +22,13 @@
 5. git log   
 查看提交历史
 
-7. git reset --hard  版本号
+6. git reset --hard  版本号
 回滚代码， 新代码会被删除
 
-8. git reset --soft 版本号
+7. git reset --soft 版本号
 回滚代码， 新代码会不被删除
 
 
-9. git push orgin master 
+8. git push orgin master 
 
 提交到远程仓库
