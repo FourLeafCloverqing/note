@@ -34,20 +34,34 @@
 
 1. 查看分支
 
+```bash
 git branch
+```
+
 
 2。新建分支
+
+
+```bash
 git branch name
+```
+
 
 
 
 3. 切换分支
 
+
+```bash
 git checkout name
+```
+
+
 
 4. 合并代码
 
-
+```bash
 git merge origin name
+```
 
 
