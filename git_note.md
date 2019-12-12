@@ -53,7 +53,7 @@ git branch name
 
 
 ```bash
-git checkout name
+git checkout name或者-
 ```
 
 
