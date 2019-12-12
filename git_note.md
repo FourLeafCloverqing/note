@@ -63,5 +63,6 @@ git checkout name或者-
 ```bash
 git merge  name 
 ```
+5. 只可以将新修改的代码合并到老代码上，不可以将老代码合并到新的上
 
 
