@@ -11,7 +11,9 @@ chr():将整数转换成对应的字符串
 
 ord():将字符串转换成对应的数字
 
-2.运算符号：+ - * / ** %  //  ==
+2.运算符号：+ - * / ** %  //  ==   
+
+分别代表加、减、乘、除、次方、取余、整除、等于。
 
 3.print语句输出括号里的形式：print ("*** %d" %(变量名称)) 注意：%后跟的是变量类型的形式 d s f
 
@@ -21,34 +23,7 @@ math.pi
 
 
 
-##二、 git
 
-1. git init
-初始化
-
-2. git status    
-
-状态
-
-3. git add file_name
-添加到暂存区
-
-4. git commit -m '第一次提交代码'
-提交到版本库
-
-5. git log   
-查看提交历史
-
-6. git reset --hard  版本号
-回滚代码， 新代码会被删除
-
-7. git reset --soft 版本号
-回滚代码， 新代码会不被删除
-
-
-8. git push orgin master 
-
-提交到远程仓库
 
 ##三、third_day（分支结构）
 1. if elif else依次递进，并且均在后面加冒号，注意缩进
@@ -88,6 +63,10 @@ if count >7:
 for i in range(1,10):
     for j in range(1,i+1):
         print('%d*%d=%d'%(i,j,i*j),end='\t')
-    print()
+    print()  ##打印空行
   
 ```
+##五、fifth_day
+1.=和==都是在啥时候用？
+
+=用于赋值，==用于判断
