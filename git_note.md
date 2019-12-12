@@ -61,7 +61,7 @@ git checkout name或者-
 4. 合并代码
 
 ```bash
-git merge origin name
+git merge  name 
 ```
 
 
