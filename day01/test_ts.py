@@ -1,6 +1,6 @@
 # 1. 传一串数字, 返回所有偶数
 # 2. 传一串数字, 返回所有偶数求和
-# 3.
+#
 # def test_value(*args):
 #     result = []
 #     for num in args:

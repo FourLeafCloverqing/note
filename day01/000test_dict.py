@@ -17,5 +17,14 @@ if __name__ == '__main__':
         'marks': "helfjlfdj"
     }
 
-    for i in a.keys():
-        print(i)
+    # # 遍历字典的key
+    # for i in a.keys():
+    #     print(i)
+    # # 遍历字典的value
+    #
+    #
+    # for i in a.values():
+    #     print(i)
+    #
+    for i, j in a.items():
+        print('字典的key: {} --> value: {}'.format(i,  j))
