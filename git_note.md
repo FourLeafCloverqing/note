@@ -7,7 +7,7 @@
 3. git add file_name
 添加到暂存区
 
-4. git commit -m '第一次提交代码'
+4. git commit -m '提交代码'
 提交到版本库
 
 5. git log   
@@ -17,7 +17,7 @@
 
 7. git reset --soft 版本号 回滚代码， 新代码会不被删除
 
-8. git push orgin master 
+8. git push origin master 
 提交到远程仓库
 
 
