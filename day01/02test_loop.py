@@ -2,13 +2,13 @@
 # break: for循环中断
 # continue:  继续（跳过本次）
 
-def test_for():
-    for i in range(1, 11):
-        if i == 8:
-            # print('i is 8, break')
-            # break
-            continue
-        print(i)
+# def test_for():
+#     for i in range(1, 11):
+#         if i == 8:
+#             # print('i is 8, break')
+#             # break
+#             continue
+#         print(i)
 
 
 # while

@@ -1,12 +1,8 @@
-#  git基本操作
+#  git基本操作（我已经忘了，自己找回）
 
+1. git init 初始化
 
-1. git init
-初始化
-
-2. git status    
-
-状态
+2. git status    状态:  （红色代表修改过但是没有在暂存区， 绿色表示在暂存区）
 
 3. git add file_name
 添加到暂存区
@@ -17,15 +13,11 @@
 5. git log   
 查看提交历史
 
-6. git reset --hard  版本号
-回滚代码， 新代码会被删除
+6. git reset --hard  版本号 回滚代码， 新代码会被删除
 
-7. git reset --soft 版本号
-回滚代码， 新代码会不被删除
-
+7. git reset --soft 版本号 回滚代码， 新代码会不被删除
 
 8. git push orgin master 
-
 提交到远程仓库
 
 
