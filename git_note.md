@@ -64,3 +64,5 @@ git merge  name
 ## git ignore
 
 http://gitbook.liuhui998.com/4_1.html
+
+##安装git 
