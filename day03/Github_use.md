@@ -146,7 +146,19 @@ github 主页
            git commit -m "第一次提交到库中”(将文件由暂存区存放到仓库)
 修改仓库文件
   
-    命令行：vim a1.php          
+    命令行：vim a1.php  (切换到命令行中)
+           在下框口处输入i切换到输入模式，修改文件
+           输入要修改的内容
+           按Esc按钮，推出修改模式
+           在下框输入:wq，推出a1.phpa文件返回命令行
+           git status -->git add-->git commit-->git stauts
+
+删除仓库文件
+    
+    命令行：rm -rf a1.php
+           rm a1.php
+           git commit - m '第一次使用命令行删除文件，并保存到仓库中'
+                    
            
     
 
